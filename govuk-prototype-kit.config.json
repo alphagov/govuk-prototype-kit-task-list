@@ -2,8 +2,6 @@
   "sass": [
     "/sass/_task-list.scss"
   ],
-  "scripts": [
-  ],
   "templates": [
     {
       "name": "Task list page",
