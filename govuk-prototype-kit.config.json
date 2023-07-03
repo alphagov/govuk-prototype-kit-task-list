@@ -1,5 +1,8 @@
 {
-  "pluginDependencies": ["govuk-frontend"],
+  "pluginDependencies": [{
+    "packageName": "govuk-frontend",
+    "minVersion": "3.12.0"
+  }],
   "sass": [
     "/sass/_task-list.scss"
   ],
