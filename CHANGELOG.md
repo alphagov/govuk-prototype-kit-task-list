@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+## v1.1.2
+
+### Fixes
+
+- [#8 - Added meta config to be shown on plugin pages](https://github.com/alphagov/govuk-prototype-kit-task-list/pull/8)
+
 ## v1.1.1
 
 ### Fixes
