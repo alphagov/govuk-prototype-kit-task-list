@@ -2,7 +2,7 @@
 
 This plugin is no longer maintained.
 
-If you are using GOV.UK Prototype Kit version 5.0.0 or above, you should use the [task list component](https://design-system.service.gov.uk/components/task-list) from the GOV.UK Design System instead.
+If you are using govuk-frontend version 5.0.0 or above, you should use the [task list component](https://design-system.service.gov.uk/components/task-list) from the GOV.UK Design System instead.
 
 You can also use the task list template from the [common templates plugin](https://github.com/alphagov/govuk-prototype-kit-common-templates/).
 
