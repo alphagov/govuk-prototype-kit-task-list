@@ -1,6 +1,6 @@
 {
   "meta": {
-    "description": "This plugin provides the code to use the GOV.UK Task list pattern in prototypes",
+    "description": "This plugin is deprecated and should be uninstalled. Use the Task list template from ‘Common Templates’ instead",
     "urls": {
       "versionHistory": "https://github.com/alphagov/govuk-prototype-kit-task-list/blob/main/CHANGELOG.md"
     }
