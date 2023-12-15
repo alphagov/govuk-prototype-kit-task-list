@@ -1,6 +1,6 @@
 {
   "meta": {
-    "description": "This plugin is deprecated and should be uninstalled. Use the Task list template from ‘Common Templates’ instead",
+    "description": "This plugin is deprecated and Task list is now included in GOV.UK Frontend v5.0.0. Uninstall and use the latest ‘Common Templates’ plugin instead, unless GOV.UK Frontend v4 supported is needed.",
     "urls": {
       "versionHistory": "https://github.com/alphagov/govuk-prototype-kit-task-list/blob/main/CHANGELOG.md"
     }
